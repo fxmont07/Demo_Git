@@ -8,6 +8,7 @@ namespace Demo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Coucou");
+            Console.WriteLine("Coucou2");
         }
     }
 }
